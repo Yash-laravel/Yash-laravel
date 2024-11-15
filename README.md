@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **Frameworks, course ext.**
 
-- 👯 I’m looking to collaborate on [https://demo.xyz/](https://demo.xyz/)
+- 👯 I’m looking to collaborate on **Xpressfly , Vivdajens**
 
-- 👨‍💻 All of my projects are available at [https://yashenterprise.xyz/](https://yashenterprise.xyz/)
+- 👨‍💻 All of my projects are available at **Vivdajens, KukamiGrocery, PrivateFlightBooking, CRM, TirthElectronics, Xpressfly, SkEnterprice,**
 
-- 📝 I regularly write articles on [https://yashenterprise.xyz/](https://yashenterprise.xyz/)
+- 📝 I regularly write articles on **what's new For laravel.**
 
 - 💬 Ask me about **Laravel, vuejs, PHP and ReactJs,**
 
 - 📫 How to reach me **yashbhuva964@gmail.com**
 
-- 📄 Know about my experiences [https://yashenterprise.xyz/](https://yashenterprise.xyz/)
+- 📄 Know about my experiences **3 years of experience in PHP, Laravel, Vue.js, and React.js.**
 
 - ⚡ Fun fact **I am funny😂**
 
